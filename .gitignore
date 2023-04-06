@@ -1,0 +1,5 @@
+# pycharm project file
+.idea
+
+# python cache file
+__pycache__
