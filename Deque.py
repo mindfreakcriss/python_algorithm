@@ -10,7 +10,7 @@ class Deque(Queue):
         if self.length() > 0:
             if front:
                 self._list.pop(0)
-            else :
+            else:
                 self._list.pop()
         else:
             return False
